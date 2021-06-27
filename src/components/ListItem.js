@@ -1,5 +1,4 @@
-import React from 'react';
-
+import React from "react";
 
 const ListItem = ({ student, add }) => {
   console.log("Rendering: List Item Comp!");
